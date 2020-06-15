@@ -1,5 +1,7 @@
 
 #!/usr/bin/python
+#Author: Kyle Molin
+#Time Created: November 19, 2019
 
 import os #import os to use system commands
 
